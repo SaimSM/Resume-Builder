@@ -1,0 +1,401 @@
+/* styles.css
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+.personal-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.personal-info img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+#name {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#contact-info {
+    font-size: 18px;
+    color: #666;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #3e8e41;
+} */
+
+/* body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .resume {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  header {
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 20px;
+  }
+  
+  .profile-pic img {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    margin-right: 20px;
+  }
+  
+  .contact-info {
+    font-size: 16px;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 28px;
+  }
+  
+  h2 {
+    color: #007BFF;
+    margin-top: 20px;
+  }
+  
+  h3 {
+    margin-top: 10px;
+  }
+  
+  section {
+    margin-top: 20px;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #007BFF;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  } */
+
+
+
+/* General Styles */
+/* body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f0f2f5;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+} */
+
+/* Resume Container */
+/* .resume-container {
+    display: flex;
+    justify-content: center;
+    padding: 30px 10px;
+}
+
+.resume {
+    background-color: white;
+    max-width: 900px;
+    width: 100%;
+    padding: 30px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+/* Header Section */
+/* header {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    margin-right: 20px;
+} */
+
+/* Content Sections */
+/* .content {
+    display: flex;
+    flex-direction: column;
+}
+
+.section-card {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+h1 {
+    font-size: 32px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 24px;
+    color: #007BFF;
+}
+
+h3 {
+    font-size: 18px;
+    color: #333;
+    margin-top: 10px;
+} */
+
+/* Buttons */
+/* .buttons {
+    text-align: center;
+    margin-top: 20px;
+}
+
+button {
+    background-color: #007BFF;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+button:focus {
+    outline: none;
+    background-color: #004494;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 5px 0;
+    font-size: 16px;
+} */
+
+/* Global Styles */
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #1F2937;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+a {
+    color: #3B82F6;
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3 {
+    color: #1F2937;
+}
+
+/* Resume Container */
+.resume-container {
+    display: flex;
+    justify-content: center;
+    padding: 50px 20px;
+}
+
+.resume {
+    background-color: white;
+    max-width: 900px;
+    width: 100%;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.resume:hover {
+    box-shadow: 0px 12px 40px rgba(0, 0, 0, 0.15);
+}
+
+/* Header Section */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid #F3F4F6;
+    padding-bottom: 30px;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    object-fit: cover;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.contact-info {
+    text-align: right;
+}
+
+.contact-info h1 {
+    font-size: 32px;
+    margin: 0;
+    color: #333;
+}
+
+.contact-info p {
+    font-size: 16px;
+    color: #555;
+}
+
+/* Content Sections */
+.content {
+    margin-top: 30px;
+}
+
+.section-card {
+    background-color: #F3F4F6;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.05);
+}
+
+.section-card h2 {
+    font-size: 22px;
+    color: #3B82F6;
+}
+
+.section-card p,
+.section-card ul {
+    font-size: 16px;
+    color: #444;
+}
+
+/* Buttons */
+.buttons {
+    text-align: center;
+    margin-top: 30px;
+}
+
+button {
+    background-color: #10B981;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 25px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #059669;
+}
+
+button:focus {
+    outline: none;
+}
+
+/* Footer */
+.footer {
+    margin-top: 40px;
+    text-align: center;
+    color: #555;
+}
+
+.footer a {
+    margin: 0 10px;
+    color: #3B82F6;
+}
